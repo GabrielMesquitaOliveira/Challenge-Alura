@@ -1,0 +1,15 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css";
+
+.background{
+    background-color: #F3F5FC;
+    width: auto;
+    height: 100vh;
+    padding-left: 20vh;
+    padding-right: 5vh;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.hero.is-fullheight {
+    min-height: 100%;
+}
