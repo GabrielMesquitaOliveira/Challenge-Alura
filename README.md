@@ -35,12 +35,11 @@ challege-alura/
 
 - 🔐 Criptografar texto.
 - 🔓 Descriptografar texto.
-- 🔄 Resetar o campo de entrada e a área de saída.
 
 ## 💻 Tecnologias Utilizadas
 
 - HTML
-- CSS
+- Bulma CSS
 - JavaScript
 
 ## 📁 Estrutura de Pastas
@@ -60,7 +59,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Desenvolvido com ❤️ por Thaleson Silva.
+Desenvolvido com ❤️ por Gabriel Mesquita.
 
 
 
